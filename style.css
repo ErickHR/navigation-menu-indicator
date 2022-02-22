@@ -98,7 +98,7 @@ html, body {
     content: '';
     width: 20px;
     height: 20px;
-    left: -20px;
+    left: -22px;
     top: 29px;
     border-top-right-radius: 20px;
     box-shadow: 0px -10px 0 0 var(--color__background);
@@ -110,7 +110,7 @@ html, body {
     content: '';
     width: 20px;
     height: 20px;
-    right: -20px;
+    right: -22px;
     top: 29px;
     border-top-left-radius: 20px;
     box-shadow: 0px -10px 0 0 var(--color__background);
